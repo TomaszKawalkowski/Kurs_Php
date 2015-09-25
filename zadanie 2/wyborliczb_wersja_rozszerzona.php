@@ -1,3 +1,10 @@
+<?php
+
+$y = $_GET['n1'];
+$z = $_GET['n2'];
+
+
+?>
 
 <html>
 
@@ -23,7 +30,7 @@
             <div class="col-md-6">
                  <div class="jumbotron">
 
-                     <form action="wynik_losowania.php" method="POST">
+                     <form action="wynik_losowania_wersja_rozszerzona.php" method="POST">
 
                         <fieldset> <!--zbiór pól objêty ramk¹ -->
                             <legend>LOTTO</legend>
@@ -31,10 +38,10 @@
                                      <label>
                                       Wybierz 6 liczb;<br>
 
-
+                                  
 
     <?php
-          for ($n=1; $n <=49; $n+=1){
+          for ($n=$y; $n <=$z; $n+=1){
               echo  '<input type="checkbox" name='.$n.' value="'.$n.'"/>';
               echo $n."|";
           }
@@ -43,6 +50,7 @@
                                     <br><br>
                              <button type="submit" class="btn btn-primary btn-block" style="background-color: dimgray;"> WYŒLIJ</button></div>
                          </fieldset>
+
                     </form>
             </div>
             <div class="col-md-3"></div>
