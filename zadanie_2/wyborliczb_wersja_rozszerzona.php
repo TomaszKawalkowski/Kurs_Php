@@ -17,15 +17,9 @@ session_start();
     $_SESSION['startzakresu'] = $y;
     $_SESSION['konieczakresu'] = $z;
 
-
-
-
 ?>
 
 <!DOCTYPE HTML>
-
-
-
 
 <head>
 
