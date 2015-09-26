@@ -1,15 +1,36 @@
 <?php
 
-$y = $_GET['n1'];
-$z = $_GET['n2'];
+$y = 1;
+$z = 49;
+if ($_GET['n1']){
+
+    $y = $_GET['n1'];
+}
+
+if ($_GET['n2']){
+
+    $z = $_GET['n2'];
+}
+
+session_start();
+
+    $_SESSION['startzakresu'] = $y;
+    $_SESSION['konieczakresu'] = $z;
+
+
 
 
 ?>
 
-<html>
+<!DOCTYPE HTML>
+
+
+
 
 <head>
 
+<html lang="pl">
+<meta charset="utf-8" />
 <title> strona 1</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" >
 
@@ -45,6 +66,7 @@ $z = $_GET['n2'];
               echo  '<input type="checkbox" name='.$n.' value="'.$n.'"/>';
               echo $n."|";
           }
+
     ?>
                                      </label>
                                     <br><br>

@@ -1,11 +1,17 @@
 <?php
 
+session_start();
+
+$y = $_SESSION['startzakresu'];
+$z = $_SESSION['konieczakresu'];
+
+
 
 if($_SERVER['REQUEST_METHOD'] === 'POST'){
     if (count($_POST)==6){
         $postTablica = array();
 
-          for ($i = 1; $i <=49; $i+=1){
+          for ($i = $y; $i <=$z; $i+=1){
           if (array_key_exists($i, $_POST)){
 
           $postTablica[] = $i;
@@ -13,10 +19,11 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
 
         }
         $tablicaLiczb = array();
-        $k = 49;
-        for ($n = 1; $n <= $k; $n++){
+
+        for ($n = $y; $n <= $z; $n++){
             $tablicaLiczb[] = $n;
         }
+
         shuffle($tablicaLiczb);
         $nowatablica = (array_slice($tablicaLiczb,0,6));
         $post = $postTablica;
@@ -69,4 +76,5 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
     }
 }
 
+?>
 
