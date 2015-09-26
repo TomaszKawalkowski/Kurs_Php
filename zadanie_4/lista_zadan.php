@@ -5,58 +5,49 @@
  * Date: 26.09.2015
  * Time: 10:05
  */
+
+
 session_start();
-if($_SERVER['REQUEST_METHOD'] === 'POST') {
 
 
+if($_SERVER['REQUEST_METHOD'] !== 'POST'){
+    $tasks =array();
+    $_SESSION['tasks'] = $tasks;
+    echo "<h3>Dodaj swoje pierwsze zadanie !!!<h3>";
 
-echo 'zawartosc tabeli SESSION na wejsciu<br>';
-    print_r($_SESSION);
-echo ' <br>ID sesji<br>';
-    print_r (session_id());
-//$listaNotatek = $_SESSION;
-
-   //$listaNotatek = array();
-   // $listaNotatek[] += $_POST['nowaNotatka'];
-
-    $k = count($_SESSION);
-
-
-    for ($p = 0 ; $p<=$k; $p++ ) {
-      if ($_SESSION[$p]==''){
-        $_SESSION[$p] = $_POST['nowaNotatka'];
-      }
-    }
-    //$_SESSION += $listaNotatek;
-    $y = count($_SESSION);
-    //var_dump($y);
-
-    echo '<br><br>zawartosc tabeli SESSION na wyjsciu<br>';
-    print_r($_SESSION);
-
-//echo '<br>listaNotatek';
-//print_r($listaNotatek);
 }
-?>
 
+if($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['nowaNotatka']==''){
+
+    echo "<h2>Nie dodales zadnego zadania, Leniu !!!<h2>";
+
+}
+
+
+if($_SERVER['REQUEST_METHOD'] === 'POST' && $_POST['nowaNotatka']!='') {
+    $_SESSION['tasks'][] = $_POST['nowaNotatka'];
+}
+$y = count ($_SESSION['tasks']);
+?>
 
 <DOCTYPE html>
 
     <field>
 
-    <h1>L I S T A   Z A D A Ñ</h1>
+
+        <h3>LISTA ZADAÑ</h3>
 
         <table border="1">
             <?php
 
 
             for ($i=0; $i<$y; $i++){
+            $lp=$i+1;
             echo
-            '<tr>
-            <td>'
-            .$_SESSION[$i].'bla'.
-            '</td>
-            </tr>';
+            '  <field> <tr>
+            <td > Task '.$lp.'</td>
+            <td style="width:302px">'.$_SESSION['tasks'][$i].'</td>
+            </field></tr>';
             }
 
 
@@ -66,6 +57,8 @@ echo ' <br>ID sesji<br>';
     <form action="lista_zadan.php" method="POST"
         <field>
 
-            <input type="text" name="nowaNotatka" value="" placeholder="dodaj notatkê. ..">
+            <input style="width: 300px" type="text" name="nowaNotatka" value="" placeholder="dodaj zadanie. ..">
 
         </field>
+
+        <input type="submit" style="margin-top:15px:">
