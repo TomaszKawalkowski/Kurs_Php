@@ -11,7 +11,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
     }
 }
 
-    if(!isset($_COOKIE['ostatnie_odwiedziny']) && ($_SERVER['REQUEST_METHOD'] !== 'TRUE')) {
+    if(!isset($_COOKIE['ostatnie_odwiedziny']) && ($_SERVER['REQUEST_METHOD'] !== 'POST')) {
         $dzisiaj = date('l jS F Y h:i:s A');
         setcookie('ostatnie_odwiedziny',$dzisiaj, time()+3600);
         Echo "<h1> Witamy pierwszy raz na naszej stronie<h1>";
@@ -24,7 +24,7 @@ if($_SERVER['REQUEST_METHOD'] === 'POST'){
 <?php
 
 
-if(isset($_COOKIE['ostatnie_odwiedziny']) && ($_SERVER['REQUEST_METHOD'] !== 'TRUE') &&($_POST['delete_cookie'] !== 'TRUE')) {
+if(isset($_COOKIE['ostatnie_odwiedziny']) && ($_SERVER['REQUEST_METHOD'] !== 'POST') &&($_POST['delete_cookie'] !== 'TRUE')) {
 
     echo '<h1>Ostatni raz tu by³eœ:'.$_COOKIE['ostatnie_odwiedziny'].'</h1><br>';
     $dzisiaj = date('l jS F Y h:i:s A');
