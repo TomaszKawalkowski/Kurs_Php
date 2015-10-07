@@ -22,88 +22,66 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="datebaseinit.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datebaseinit.php">
+      <file leaf-file-name="zadanie_2_dzien_2_MySql.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zadanie_2_dzien_2_MySql.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding />
+              <caret line="32" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+              <folding>
+                <marker date="1443705722687" expanded="true" signature="408:470" placeholder="INSERT INTO ..." />
+                <marker date="1443705722687" expanded="true" signature="808:884" placeholder="INSERT INTO ..." />
+                <marker date="1443705722687" expanded="true" signature="1079:1154" placeholder="INSERT INTO ..." />
+                <marker date="1443705722687" expanded="true" signature="1331:1406" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zadanie_2a_dzien_2_mysql.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zadanie_2a_dzien_2_mysql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-11.56">
+              <caret line="23" column="52" selection-start-line="22" selection-start-column="11" selection-end-line="23" selection-end-column="52" />
+              <folding>
+                <element signature="e#6#88#0#PHP" expanded="true" />
+                <marker date="1443711113862" expanded="true" signature="265:320" placeholder="SELECT * FRO..Tickets..." />
+                <marker date="1443711113862" expanded="true" signature="265:359" placeholder="INSERT INTO ..." />
+                <marker date="1443711113862" expanded="true" signature="636:985" placeholder="..." />
+                <marker date="1443711113862" expanded="true" signature="658:794" placeholder="..." />
+                <marker date="1443711113862" expanded="true" signature="815:968" placeholder="..." />
+                <marker date="1443711113862" expanded="true" signature="1244:1338" placeholder="SELECT * FRO..Tickets..." />
+                <marker date="1443711113862" expanded="true" signature="1795:1889" placeholder="SELECT * FRO..Tickets..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="zadanie_2b_dzien_2_mysql.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zadanie_2b_dzien_2_mysql.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.61340207">
+              <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+              <folding>
+                <marker date="1443770788410" expanded="true" signature="477:504" placeholder="SELECT * FRO..Cinemas..." />
+                <marker date="1443770788410" expanded="true" signature="477:517" placeholder="SELECT * FRO..Cinemas..." />
+                <marker date="1443770788410" expanded="true" signature="477:520" placeholder="SELECT * FRO..Cinemas..." />
+                <marker date="1443770788410" expanded="true" signature="477:521" placeholder="SELECT * FRO..Cinemas..." />
+                <marker date="1443770788410" expanded="true" signature="477:563" placeholder="SELECT * FRO..Cinemas..." />
+                <marker date="1443770788410" expanded="true" signature="820:861" placeholder="SELECT * FRO..Cinemas..." />
+                <marker date="1443770788410" expanded="true" signature="1148:1226" placeholder="INSERT INTO ..." />
+                <marker date="1443770788410" expanded="true" signature="1301:1534" placeholder="/*$lastID = ..." />
+                <marker date="1443770788410" expanded="true" signature="1739:1760" placeholder="SELECT * FRO..Cinemas..." />
+                <marker date="1443770788410" expanded="true" signature="2221:2241" placeholder="SELECT * FRO..Movies..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="formularz_z_walidacja_danych.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../formularz_z_walidacja_danych.php">
+        <entry file="file://$PROJECT_DIR$/../../../formularz_z_walidacja_danych.php">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="58" column="39" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="connection_mysql.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/connection_mysql.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding>
-                <element signature="e#6#88#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zadanie_2.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zadanie_2.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-              <folding>
-                <element signature="e#6#88#0#PHP" expanded="true" />
-                <marker date="1443619854846" expanded="true" signature="137:246" placeholder="CREATE TABLE..Kino..." />
-                <marker date="1443619854846" expanded="true" signature="473:580" placeholder="CREATE TABLE..Film..." />
-                <marker date="1443619854846" expanded="true" signature="791:900" placeholder="CREATE TABLE..Bilet..." />
-                <marker date="1443619854846" expanded="true" signature="1127:1236" placeholder="CREATE TABLE..Platnosc..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zadanie_4.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/zadanie_4.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="zadanie_3.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zadanie_3.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
-              <folding>
-                <marker date="1443623168511" expanded="true" signature="370:427" placeholder="INSERT INTO ..." />
-                <marker date="1443623168511" expanded="true" signature="909:962" placeholder="INSERT INTO ..." />
-                <marker date="1443623168511" expanded="true" signature="1449:1505" placeholder="INSERT INTO ..." />
-                <marker date="1443623168511" expanded="true" signature="1996:2051" placeholder="INSERT INTO ..." />
-                <marker date="1443623168511" expanded="true" signature="2483:2505" placeholder="..." />
-                <marker date="1443623168511" expanded="true" signature="2884:2906" placeholder="..." />
-                <marker date="1443623168511" expanded="true" signature="3289:3311" placeholder="..." />
-                <marker date="1443623168511" expanded="true" signature="3699:3721" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="error.log" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../error.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8735" column="0" selection-start-line="8735" selection-start-column="0" selection-end-line="8735" selection-end-column="0" />
+              <caret line="8" column="28" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -119,6 +97,13 @@
         <option value="$PROJECT_DIR$/../error.log" />
         <option value="$PROJECT_DIR$/zadanie_2.php" />
         <option value="$PROJECT_DIR$/zadanie_3.php" />
+        <option value="$PROJECT_DIR$/zadanie_5.php" />
+        <option value="$PROJECT_DIR$/zadanie_4.php" />
+        <option value="$PROJECT_DIR$/connection_Kino.php" />
+        <option value="$PROJECT_DIR$/zadanie_2_dzien_2_MySql.php" />
+        <option value="$PROJECT_DIR$/../select.php" />
+        <option value="$PROJECT_DIR$/zadanie_2a_dzien_2_mysql.php" />
+        <option value="$PROJECT_DIR$/zadanie_2b_dzien_2_mysql.php" />
       </list>
     </option>
   </component>
@@ -129,11 +114,13 @@
   <component name="NamedScopeManager">
     <order />
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
+    <option name="width" value="741" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -160,6 +147,7 @@
     </navigator>
     <panes>
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -180,13 +168,50 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\zadaniaPHP\My_SQL\MySql_cwiczenia" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="226b3b6a-dc1b-4f92-a9b5-705be8c15913" name="Default" comment="" />
@@ -197,10 +222,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="0" width="741" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.004137931" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -220,6 +245,14 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -228,67 +261,173 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/datebaseinit.php">
+    <entry file="file://$PROJECT_DIR$/zadanie_2_dzien_2_MySql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../formularz_z_walidacja_danych.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="58" column="39" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/connection_mysql.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="32" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
           <folding>
-            <element signature="e#6#88#0#PHP" expanded="true" />
+            <marker date="1443705722687" expanded="true" signature="408:470" placeholder="INSERT INTO ..." />
+            <marker date="1443705722687" expanded="true" signature="808:884" placeholder="INSERT INTO ..." />
+            <marker date="1443705722687" expanded="true" signature="1079:1154" placeholder="INSERT INTO ..." />
+            <marker date="1443705722687" expanded="true" signature="1331:1406" placeholder="INSERT INTO ..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zadanie_2.php">
+    <entry file="file://$PROJECT_DIR$/zadanie_2a_dzien_2_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+            <marker date="1443711113862" expanded="true" signature="265:320" placeholder="SELECT * FRO..Tickets..." />
+            <marker date="1443711113862" expanded="true" signature="265:359" placeholder="INSERT INTO ..." />
+            <marker date="1443711113862" expanded="true" signature="636:985" placeholder="..." />
+            <marker date="1443711113862" expanded="true" signature="658:794" placeholder="..." />
+            <marker date="1443711113862" expanded="true" signature="815:968" placeholder="..." />
+            <marker date="1443711113862" expanded="true" signature="1244:1338" placeholder="SELECT * FRO..Tickets..." />
+            <marker date="1443711113862" expanded="true" signature="1795:1889" placeholder="SELECT * FRO..Tickets..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_2b_dzien_2_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1443770788410" expanded="true" signature="477:504" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:517" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:520" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:521" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:563" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="820:861" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="1148:1226" placeholder="INSERT INTO ..." />
+            <marker date="1443770788410" expanded="true" signature="1301:1534" placeholder="/*$lastID = ..." />
+            <marker date="1443770788410" expanded="true" signature="1739:1760" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="2221:2241" placeholder="SELECT * FRO..Movies..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../formularz_z_walidacja_danych.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_2_dzien_2_MySql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <marker date="1443705722687" expanded="true" signature="408:470" placeholder="INSERT INTO ..." />
+            <marker date="1443705722687" expanded="true" signature="808:884" placeholder="INSERT INTO ..." />
+            <marker date="1443705722687" expanded="true" signature="1079:1154" placeholder="INSERT INTO ..." />
+            <marker date="1443705722687" expanded="true" signature="1331:1406" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_2a_dzien_2_mysql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#6#88#0#PHP" expanded="true" />
-            <marker date="1443619854846" expanded="true" signature="137:246" placeholder="CREATE TABLE..Kino..." />
-            <marker date="1443619854846" expanded="true" signature="473:580" placeholder="CREATE TABLE..Film..." />
-            <marker date="1443619854846" expanded="true" signature="791:900" placeholder="CREATE TABLE..Bilet..." />
-            <marker date="1443619854846" expanded="true" signature="1127:1236" placeholder="CREATE TABLE..Platnosc..." />
+            <marker date="1443711113862" expanded="true" signature="265:320" placeholder="SELECT * FRO..Tickets..." />
+            <marker date="1443711113862" expanded="true" signature="265:359" placeholder="INSERT INTO ..." />
+            <marker date="1443711113862" expanded="true" signature="636:985" placeholder="..." />
+            <marker date="1443711113862" expanded="true" signature="658:794" placeholder="..." />
+            <marker date="1443711113862" expanded="true" signature="815:968" placeholder="..." />
+            <marker date="1443711113862" expanded="true" signature="1244:1338" placeholder="SELECT * FRO..Tickets..." />
+            <marker date="1443711113862" expanded="true" signature="1795:1889" placeholder="SELECT * FRO..Tickets..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zadanie_3.php">
+    <entry file="file://$PROJECT_DIR$/zadanie_2b_dzien_2_mysql.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
           <folding>
-            <marker date="1443623168511" expanded="true" signature="370:427" placeholder="INSERT INTO ..." />
-            <marker date="1443623168511" expanded="true" signature="909:962" placeholder="INSERT INTO ..." />
-            <marker date="1443623168511" expanded="true" signature="1449:1505" placeholder="INSERT INTO ..." />
-            <marker date="1443623168511" expanded="true" signature="1996:2051" placeholder="INSERT INTO ..." />
-            <marker date="1443623168511" expanded="true" signature="2483:2505" placeholder="..." />
-            <marker date="1443623168511" expanded="true" signature="2884:2906" placeholder="..." />
-            <marker date="1443623168511" expanded="true" signature="3289:3311" placeholder="..." />
-            <marker date="1443623168511" expanded="true" signature="3699:3721" placeholder="..." />
+            <marker date="1443770788410" expanded="true" signature="477:504" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:517" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:520" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:521" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:563" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="820:861" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="1148:1226" placeholder="INSERT INTO ..." />
+            <marker date="1443770788410" expanded="true" signature="1301:1534" placeholder="/*$lastID = ..." />
+            <marker date="1443770788410" expanded="true" signature="1739:1760" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="2221:2241" placeholder="SELECT * FRO..Movies..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../error.log">
+    <entry file="file://$PROJECT_DIR$/../../../formularz_z_walidacja_danych.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8735" column="0" selection-start-line="8735" selection-start-column="0" selection-end-line="8735" selection-end-column="0" />
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_2_dzien_2_MySql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="41" />
+          <folding>
+            <marker date="1443705722687" expanded="true" signature="408:470" placeholder="INSERT INTO ..." />
+            <marker date="1443705722687" expanded="true" signature="808:884" placeholder="INSERT INTO ..." />
+            <marker date="1443705722687" expanded="true" signature="1079:1154" placeholder="INSERT INTO ..." />
+            <marker date="1443705722687" expanded="true" signature="1331:1406" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_2a_dzien_2_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+            <marker date="1443711113862" expanded="true" signature="265:320" placeholder="SELECT * FRO..Tickets..." />
+            <marker date="1443711113862" expanded="true" signature="265:359" placeholder="INSERT INTO ..." />
+            <marker date="1443711113862" expanded="true" signature="636:985" placeholder="..." />
+            <marker date="1443711113862" expanded="true" signature="658:794" placeholder="..." />
+            <marker date="1443711113862" expanded="true" signature="815:968" placeholder="..." />
+            <marker date="1443711113862" expanded="true" signature="1244:1338" placeholder="SELECT * FRO..Tickets..." />
+            <marker date="1443711113862" expanded="true" signature="1795:1889" placeholder="SELECT * FRO..Tickets..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_2b_dzien_2_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <marker date="1443770788410" expanded="true" signature="477:504" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:517" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:520" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:521" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:563" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="820:861" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="1148:1226" placeholder="INSERT INTO ..." />
+            <marker date="1443770788410" expanded="true" signature="1301:1534" placeholder="/*$lastID = ..." />
+            <marker date="1443770788410" expanded="true" signature="1739:1760" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="2221:2241" placeholder="SELECT * FRO..Movies..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../formularz_z_walidacja_danych.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -296,24 +435,7 @@
     <entry file="file://$PROJECT_DIR$/datebaseinit.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../formularz_z_walidacja_danych.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="58" column="39" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../error.log">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="8735" column="0" selection-start-line="8735" selection-start-column="0" selection-end-line="8735" selection-end-column="0" />
-          <folding />
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="12" />
         </state>
       </provider>
     </entry>
@@ -321,9 +443,34 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding>
-            <element signature="e#6#88#0#PHP" expanded="true" />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="33" column="2" selection-start-line="33" selection-start-column="2" selection-end-line="33" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../select.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -331,30 +478,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
-          <folding>
-            <marker date="1443623168511" expanded="true" signature="370:427" placeholder="INSERT INTO ..." />
-            <marker date="1443623168511" expanded="true" signature="909:962" placeholder="INSERT INTO ..." />
-            <marker date="1443623168511" expanded="true" signature="1449:1505" placeholder="INSERT INTO ..." />
-            <marker date="1443623168511" expanded="true" signature="1996:2051" placeholder="INSERT INTO ..." />
-            <marker date="1443623168511" expanded="true" signature="2483:2505" placeholder="..." />
-            <marker date="1443623168511" expanded="true" signature="2884:2906" placeholder="..." />
-            <marker date="1443623168511" expanded="true" signature="3289:3311" placeholder="..." />
-            <marker date="1443623168511" expanded="true" signature="3699:3721" placeholder="..." />
-          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datebaseinit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connection_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/zadanie_2.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0">
+        <state vertical-scroll-proportion="0.0">
           <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
-          <folding>
-            <element signature="e#6#88#0#PHP" expanded="true" />
-            <marker date="1443619854846" expanded="true" signature="137:246" placeholder="CREATE TABLE..Kino..." />
-            <marker date="1443619854846" expanded="true" signature="473:580" placeholder="CREATE TABLE..Film..." />
-            <marker date="1443619854846" expanded="true" signature="791:900" placeholder="CREATE TABLE..Bilet..." />
-            <marker date="1443619854846" expanded="true" signature="1127:1236" placeholder="CREATE TABLE..Platnosc..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -362,7 +506,203 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datebaseinit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connection_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="26" selection-start-line="13" selection-start-column="26" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datebaseinit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connection_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="42" selection-start-line="48" selection-start-column="42" selection-end-line="48" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_5.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.28">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_4.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26288658">
+          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connection_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43814433">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datebaseinit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.79553264">
+          <caret line="29" column="0" selection-start-line="29" selection-start-column="0" selection-end-line="30" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/connection_Kino.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.28">
+          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../MySql1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6426117">
+          <caret line="27" column="13" selection-start-line="27" selection-start-column="13" selection-end-line="27" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12371134">
+          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../connection_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4089347">
+          <caret line="19" column="25" selection-start-line="8" selection-start-column="0" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../select.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46735394">
+          <caret line="21" column="10" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_3.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38659793">
+          <caret line="90" column="57" selection-start-line="90" selection-start-column="12" selection-end-line="90" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../formularz_z_walidacja_danych.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_2_dzien_2_MySql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="5" selection-start-line="14" selection-start-column="4" selection-end-line="32" selection-end-column="5" />
+          <folding>
+            <marker date="1443705722687" expanded="true" signature="408:470" placeholder="INSERT INTO ..." />
+            <marker date="1443705722687" expanded="true" signature="808:884" placeholder="INSERT INTO ..." />
+            <marker date="1443705722687" expanded="true" signature="1079:1154" placeholder="INSERT INTO ..." />
+            <marker date="1443705722687" expanded="true" signature="1331:1406" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_2a_dzien_2_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.56">
+          <caret line="23" column="52" selection-start-line="22" selection-start-column="11" selection-end-line="23" selection-end-column="52" />
+          <folding>
+            <element signature="e#6#88#0#PHP" expanded="true" />
+            <marker date="1443711113862" expanded="true" signature="265:320" placeholder="SELECT * FRO..Tickets..." />
+            <marker date="1443711113862" expanded="true" signature="265:359" placeholder="INSERT INTO ..." />
+            <marker date="1443711113862" expanded="true" signature="636:985" placeholder="..." />
+            <marker date="1443711113862" expanded="true" signature="658:794" placeholder="..." />
+            <marker date="1443711113862" expanded="true" signature="815:968" placeholder="..." />
+            <marker date="1443711113862" expanded="true" signature="1244:1338" placeholder="SELECT * FRO..Tickets..." />
+            <marker date="1443711113862" expanded="true" signature="1795:1889" placeholder="SELECT * FRO..Tickets..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zadanie_2b_dzien_2_mysql.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.61340207">
+          <caret line="45" column="0" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <marker date="1443770788410" expanded="true" signature="477:504" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:517" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:520" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:521" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="477:563" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="820:861" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="1148:1226" placeholder="INSERT INTO ..." />
+            <marker date="1443770788410" expanded="true" signature="1301:1534" placeholder="/*$lastID = ..." />
+            <marker date="1443770788410" expanded="true" signature="1739:1760" placeholder="SELECT * FRO..Cinemas..." />
+            <marker date="1443770788410" expanded="true" signature="2221:2241" placeholder="SELECT * FRO..Movies..." />
+          </folding>
         </state>
       </provider>
     </entry>
